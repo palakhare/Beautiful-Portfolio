@@ -108,6 +108,14 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 ## 🖼️ Screenshots
 
 > 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+> <img width="1861" height="819" alt="image" src="https://github.com/user-attachments/assets/6f2bf6ac-ae43-41a7-ba97-40f39596ad8b" />
+> <img width="1865" height="782" alt="image" src="https://github.com/user-attachments/assets/d8177fee-6a63-45aa-9414-55d4f05472b8" />
+>  <img width="1886" height="966" alt="image" src="https://github.com/user-attachments/assets/5b5145a2-fc6c-4cc2-8469-25e9f4e0e4c6" />
+> <img width="1879" height="898" alt="image" src="https://github.com/user-attachments/assets/e8dd2b2d-2169-44b6-9c0a-5d36cbe51eed" />
+
+
+
+
 
 ---
 
